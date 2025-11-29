@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from SONALI import app
 
 start_txt = """
-✰ 𝗪ᴇʟᴄᴏᴍᴇ ᴛᴏ 𝗧ᴇᴀᴍ 𝗣ᴜʀᴠɪ 𝗥ᴇᴘᴏs ✰
+✰ 𝗪ᴇʟᴄᴏᴍᴇ ᴛᴏ 𝗧ᴇᴀᴍ Vɪᴘ 𝗥ᴇᴘᴏs ✰
  
 ✰ 𝗥ᴇᴘᴏ ᴛᴏ 𝗡ʜɪ 𝗠ɪʟᴇɢᴀ 𝗬ʜᴀ
  
@@ -26,7 +26,7 @@ async def start(_, msg):
           InlineKeyboardButton("⌯ Vɪᴘ_Cʜᴏʀ 🪪", url="https://t.me/Vip_chor"),
           ],
                [
-                InlineKeyboardButton("𝗧ᴇᴀᴍ 𝗣ᴜʀᴠɪ 𝗕ᴏᴛs", url=f"https://t.me/ll_bots_ll"),
+                InlineKeyboardButton("𝗧ᴇᴀᴍ Vɪᴘ 𝗕ᴏᴛs", url=f"https://t.me/ll_bots_ll"),
 ],
 [
 InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/Amitamusicbot"),
