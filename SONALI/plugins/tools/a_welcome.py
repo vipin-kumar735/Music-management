@@ -99,7 +99,7 @@ user_command_count = {}
 #  ₹          else:
 #                await wlcm.rm_wlcm(chat_id)
   #               await message.reply_text(
-                    f"ᴇɴᴀʙʟᴇᴅ ᴀssɪsᴛᴀɴᴛ ᴡᴇʟᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴ ɪɴ  {message.chat.title}"
+                 #   f"ᴇɴᴀʙʟᴇᴅ ᴀssɪsᴛᴀɴᴛ ᴡᴇʟᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴ ɪɴ  {message.chat.title}"
  #               )
 #        else:
   #          await message.reply_text(usage)
