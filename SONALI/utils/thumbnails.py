@@ -92,7 +92,7 @@ async def get_thumb(videoid):
         bold_font = ImageFont.truetype("SONALI/assets/font.ttf", 33)
 
     
-        text_size = draw.textsize("@PurviBots   ", font=font)
+        text_size = draw.textsize("@TEAM_CHOR  ", font=font)
         draw.text((1280 - text_size[0] - 20, 20), "@TEAM_CHOR   ", fill="yellow", font=font)
 
     
